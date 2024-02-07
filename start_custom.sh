@@ -3,7 +3,7 @@
 api="tonapi"
 timeout=5
 givers=1000
-minerPath="./miners"
+minerPath="."
 
 if [ -n "$1" ]; then
   api=$1
