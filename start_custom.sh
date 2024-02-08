@@ -18,12 +18,12 @@ if [ "$3" ]; then
 fi
 
 if [ "$4" = "mrdn" ]; then
-  echo "Use send_meridian.js"
   script="send_meridian.js"
 else
-  echo "Use send_universal.js"
   script="send_universal.js"
 fi
+
+echo "run ${script}"
 
 npm install
 
