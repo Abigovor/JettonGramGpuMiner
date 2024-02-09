@@ -15,7 +15,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.givers100000 = void 0;
 exports.givers100000 = [
     { address: 'EQBM8I1p5PEJSgQQqKDaOxuuQzHFp7GLcBd5ChKNaQ159g6S', reward: 100000 },
-    { address: 'EQCBB90ecx2p29nMJQgRDMc8dpe5wJwfcoRjUMiALDQNlqWz-', reward: 100000 },
+    { address: 'EQCBB90ecx2p29nMJQgRDMc8dpe5wJwfcoRjUMiALDQNlqWz', reward: 100000 },
     { address: 'EQBEzPiNQlUK0HSHgFnjBq-HDA5xk5_JBAAGudvevPlKGnah', reward: 100000 },
     { address: 'EQDuRwowi_uFUPk_M9wwGev7YRWK1TrTTp5RpuzZqYVjWeSw', reward: 100000 },
     { address: 'EQC2udTftic-QAXcsy-GTbiRQqMyEXlhwRL9PFDJZbVQpZfS', reward: 100000 },
