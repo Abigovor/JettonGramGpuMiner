@@ -1,8 +1,8 @@
 # README
 
-Сообщество - https://t.me/blckbazars
+Сообщество - https://t.me/PoWCoiner, https://t.me/blckbazars
 
-Майнер для жетона GRAM. Нужна Windows и видеокарта с драйверами CUDA или OpenCL
+Майнер для жетона GRAM, Meredian, PoW. Нужна Windows и видеокарта с драйверами CUDA или OpenCL
 
 - Создайте `config.txt`
 - Напишите мнемоник в файле `config.txt` в формате
@@ -25,7 +25,7 @@ TONAPI_TOKEN=
 
 # EN
 
-Community - https://t.me/blckbazars
+Community - https://t.me/PoWCoiner, https://t.me/blckbazars
 
 Miner for GRAM jetton. CUDA or OpenCL GPU needed.
 
@@ -37,4 +37,7 @@ SEED=word1 word2
 - Activate v4r2 wallet linked to mnemonic and send some funds there
 - Install nodejs [https://nodejs.org](https://nodejs.org/en)
 - Start miner by opening `start_tonhub.bat` (for AMD - `start_tonhub_amd.bat`)
+
+## TonApi
+You able to use TonApi(tonconsole.com) as well as api provider. It's increase stability but doesn't work without an api key. It's enough free api key per ome miner. In order to run a miner with tonapi you have to use `start_tonapi_X.bat` or `start_tonapi_X.sh` (with a postfix _amd for PC without CUDA)
 
